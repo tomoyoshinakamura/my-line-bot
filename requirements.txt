@@ -1,0 +1,4 @@
+Flask==3.0.0
+line-bot-sdk==2.4.2
+playwright==1.47.0
+beautifulsoup4==4.12.3
