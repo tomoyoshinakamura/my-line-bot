@@ -1,6 +1,6 @@
 Flask==2.3.3
 gunicorn==21.2.0
-line-bot-sdk==2.4.3
+line-bot-sdk>=2.5.0
 playwright==1.47.0
 greenlet>=3.0.3
 aiohttp==3.9.5
